@@ -16,4 +16,4 @@ Rules for the Lotto Game:
 - It costs $1 to play per play
 - All playable numbers are between 1 and 39, inclusively
 
-Included is the capstone report, as well as the instructions, graphing code, and given CSV files for the assignment.
+Included is the capstone report, as well as the graphing code for general wins, 4 or 5 number matches, and given CSV files for the assignment.
